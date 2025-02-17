@@ -1,0 +1,2699 @@
+> python APPB.py ./Examples/mvm_bigrock_sigdemo.pop
+List: WaveSchedule
+        Key: StartingCurrency
+                Value: 1200
+        Key: RespawnWaveTime
+                Value: 1
+        Key: FixedRespawnWaveTime
+                Value: 1
+        Key: CanBotsAttackWhileInSpawnRoom
+                Value: no
+        Key: NoReanimators
+                Value: 1
+        Key: NoMvMDeathTune
+                Value: 1
+        Key: MaxSpectators
+                Value: 5
+        Key: MaxRedPlayers
+                Value: 6
+        Key: GrapplingHook
+                Value: 1
+        Key: BunnyHop
+                Value: 1
+        Key: AllowMultipleSappers
+                Value: 1
+        Key: NoJoinMidwave
+                Value: 1
+        Key: BurnTimeFasterBurn
+                Value: 1
+        Key: RespecEnabled
+                Value: 0
+        Key: RespecLimit
+                Value: 1
+        Key: BonusRatioHalf
+                Value: 0.75
+        Key: BonusRatioFull
+                Value: 0.8
+        Key: FixedBuybacks
+                Value: 1
+        Key: BuybacksPerWave
+                Value: 6
+        Key: DeathPenalty
+                Value: 100
+        Key: ForceRedMoney
+                Value: 1
+        Key: NoCreditsVelocity
+                Value: 1
+        Key: UpgradeStationKeepWeapons
+                Value: 1
+        Key: CustomUpgradesFile
+                Value: "mvm_upgrades_sigsegv_extra_v19.txt"
+        Key: SniperHideLasers
+                Value: 1
+        Key: SentryBusterFriendlyFire
+                Value: 0
+        Key: BotPushaway
+                Value: 0
+        Key: AllowBotExtraSlots
+                Value: 1
+        Key: ExtraBotSlotsNoDeathcam
+                Value: 1
+        Key: RobotLimit
+                Value: 18
+        Key: EnableDominations
+                Value: 1
+        Key: MedigunShieldDamage
+                Value: 1
+        Key: SendBotsToSpectatorImmediately
+                Value: 1
+        Key: StandableHeads
+                Value: 1
+        Key: BotsRandomCrit
+                Value: 1
+        Key: SniperAllowHeadshots
+                Value: 1
+        Key: ImprovedAirblast
+                Value: 1
+        Key: NoSapUnownedBuildings
+                Value: 1
+        Key: DisplayRobotDeathNotice
+                Value: 1
+        Key: FlagCarrierMovementPenalty
+                Value: 0.4
+        Key: BotTeleportUberDuration
+                Value: 2
+        Key: AllowFlagCarrierToFight
+                Value: 1
+        Key: FlagEscortCountOffset
+                Value: 5
+        Key: StuckTimeMultiplier
+                Value: 1
+        Key: EngineerPushRange
+                Value: 40
+        Key: MinibossSentrySingleKill
+                Value: 1
+        Key: NoRedBotsRandomCrit
+                Value: 1
+        Key: NoRedSniperBotHeadshots
+                Value: 1
+        Key: SentryHintBombForwardRange
+                Value: 0
+        Key: SentryHintBombBackwardRange
+                Value: 3000
+        Key: SentryHintMinDistanceFromBomb
+                Value: 1300
+        Key: DefaultMiniBossScale
+                Value: 1.6
+        Key: SandmanStun
+                Value: 0
+        Key: ConchHealthOnHit
+                Value: 0.77
+        Key: MarkedForDeathLifetime
+                Value: 1
+        Key: VacNumCharges
+                Value: 16
+        Key: DoubleDonkWindow
+                Value: 99
+        Key: ConchSpeedBoost
+                Value: 10
+        Key: StealthDamageReduction
+                Value: 0.1
+        Key: HealOnKillOverhealMelee
+                Value: 1
+        Key: AllowJoinTeamBlue
+                Value: 1
+        Key: AllowJoinTeamBlueMax
+                Value: 4
+        Key: HumansMustJoinTeam
+                Value: blue
+        Key: ReverseWinConditions
+                Value: 1
+        Key: EnemyTeamForReverse
+                Value: red
+        Key: RespawnWaveTimeBlue
+                Value: 5
+        Key: FixedRespawnWaveTimeBlue
+                Value: 1
+        Key: SetCreditTeam
+                Value: 3
+        Key: BluHumanFlagCapture
+                Value: 1
+        Key: BluHumanFlagPickup
+                Value: 1
+        Key: BluHumanInfiniteAmmo
+                Value: 0
+        Key: BluHumanInfiniteCloak
+                Value: 1
+        Key: BluHumanTeleportOnSpawn
+                Value: 1
+        Key: BluHumanBotTeleporter
+                Value: 1
+        Key: AllowBluPlayerReanimators
+                Value: 1
+        Key: RemoveBluVelocityLimit
+                Value: 1
+        Key: BluHumanSpawnNoShoot
+                Value: 1
+        Key: BluHumanSpawnProtection
+                Value: 1
+        Key: NoBluHumanFootsteps
+                Value: 1
+        Key: BotsUsePlayerTeleporters
+                Value: 0
+        Key: ForceHoliday
+                Value: 2
+        Key: BotsDropSpells
+                Value: 1
+        Key: SpellsEnabled
+                Value: 1
+        Key: GiantsDropRareSpells
+                Value: 1
+        Key: SpellDropRateCommon
+                Value: 0.5
+        Key: SpellDropRateGiant
+                Value: 0.5
+        Key: SpellDropForBotsInTeam
+                Value: Blue
+        Key: NoThrillerTaunt
+                Value: 1
+        Key: NoCritPumpkin
+                Value: 1
+        Key: NoSkeletonSplit
+                Value: 1
+        Key: MaxActiveSkeletons
+                Value: 999
+        Key: FastNPCUpdate
+                Value: 1
+        Key: ZombiesNoWave666
+                Value: 1
+        Key: NoHolidayPickups
+                Value: 1
+        Key: HHHNoControlPointLogic
+                Value: 1
+        Key: HHHHealthPerPlayer
+                Value: 200
+        Key: HHHHealthBase
+                Value: 3000
+        Key: HHHAttackRange
+                Value: 200
+        Key: HHHChaseRange
+                Value: 1500
+        Key: HHHTerrifyRange
+                Value: 500
+        Key: HHHQuitRange
+                Value: 2000
+        Key: HHHChaseDuration
+                Value: 30
+        Key: HHHNonSolidToPlayers
+                Value: 1
+        Key: BluPlayersAreRobots
+                Value: 1
+        Key: RedPlayersAreRobots
+                Value: 1
+        Key: BotsAreHumans
+                Value: 1
+        Key: PlayerRobotsUsePlayerAnimation
+                Value: 1
+        Key: ForceRobotBleed
+                Value: 1
+        Key: BotHumansHaveRobotVoice
+                Value: 1
+        Key: BotHumansHaveEyeGlow
+                Value: 1
+        Key: BodyPartScaleSpeed
+                Value: 2
+        Key: NoRomevisionCosmetics
+                Value: 1
+        Key: RemoveGrapplingHooks
+                Value: 1
+        Key: RestoreNegativeDamageHealing
+                Value: 1
+        Key: RestoreNegativeDamageOverheal
+                Value: 1
+        Key: Accelerate
+                Value: 100
+        Key: AirAccelerate
+                Value: 100
+        Key: TurboPhysics
+                Value: 0
+        Key: MaxEntitySpeed
+                Value: 10000
+        Key: MaxSpeedLimit
+                Value: 521
+        Key: TextPrintTime
+                Value: 7
+        Key: NoMissionInfo
+                Value: 0
+        Key: WaveStartCountdown
+                Value: 9
+        Key: FixSetCustomModelInput
+                Value: 1
+        Key: FixHuntsmanDamageBonus
+                Value: 1
+        Key: FastEntityNameLookup
+                Value: 1
+        Key: FastWholeMapTriggers
+                Value: 1
+        Key: AutoWeaponStrip
+                Value: 1
+        Key: RemoveUnusedOffhandViewmodel
+                Value: 1
+        Key: PrecacheModel
+                Value: "models/props_soho/bookstand002.mdl"
+        Key: PrecacheSound
+                Value: "GoldPipe_MissionIntro.mp3"
+        Key: PrecacheSound
+                Value: "weapons/rocket_directhit_shoot_crit.wav"
+        Key: PrecacheScriptSound
+                Value: "Weapon_RPG.Single"
+        Key: PrecacheDecal
+                Value: "decals/tscorch"
+        Key: PrecacheGeneric
+                Value: "materials/sprites/fire_res.vmt"
+        Key: PrecacheParticle
+                Value: "AntlionGib"
+        Key: PrecacheSentenceFile
+                Value: "scripts/somethingsentencefile.txt"
+        Key: DisableSound
+                Value: "Weapon_Shotgun.Single"
+        Key: DisableSound
+                Value: "Announcer.MVM_Wave_End"
+        Key: DisableSound
+                Value: "Announcer.MVM_Bonus"
+        Key: CustomScriptSoundFile
+                Value: "scripts/sigsegv_sound_overrides.txt"
+List: OverrideSounds
+        Key: "Announcer.MVM_Get_To_Upgrade"
+                Value: "GoldPipe_MissionIntro.mp3"
+        Key: "Weapon_RPG.Single"
+                Value: "GoldPipe_MissionIntro.mp3"
+List: ItemBlacklist
+        Key: Classname
+                Value: "tf_weapon_sniperrifle"
+        Key: Name
+                Value: "TF_WEAPON_MINIGUN"
+        Key: Name
+                Value: "The Force-a-Nature"
+        Key: DefIndex
+                Value: 8
+List: ItemAttributes
+        Key: ItemName
+                Value: "TF_WEAPON_ROCKETLAUNCHER"
+        Key: "reload time decreased"
+                Value: 0.25
+List: ItemAttributes
+        Key: SimilarToItem
+                Value: "TF_WEAPON_CLUB"
+        Key: "fire rate bonus"
+                Value: 1.8
+List: ItemAttributes
+        Key: Classname
+                Value: "tf_weapon_grenadelauncher"
+        Key: "attach particle effect"
+                Value: 13
+        Key: "fire rate bonus"
+                Value: 0.5
+List: CustomWeapon
+List: "My Custom Item"
+        Key: OriginalItemName
+                Value: "The Iron Bomber"
+        Key: "fire rate bonus"
+                Value: 0.1
+        Key: "damage bonus"
+                Value: 4
+        Key: "custom item model"
+                Value: "models/workshop/weapons/c_models/c_blackbox/c_blackbox_xmas.mdl"
+        Key: "custom weapon fire sound"
+                Value: "Weapon_Soda_Popper.Single"
+List: "Rayslick"
+        Key: OriginalItemName
+                Value: "The Conscientious Objector"
+        Key: "custom texture lo"
+                Value: "4.96704961615804963e-32n"
+        Key: "custom texture hi"
+                Value: "8.23836940293570411e-31n"
+        Key: ForceItem
+                Value: "The Breakneck Baggies"
+        Key: ForceItem
+                Value: "Particulate Protector"
+List: ForceItem
+List: All
+        Key: Item
+                Value: "Rayslick"
+List: "TF_WEAPON_GRAPPLINGHOOK"
+        Key: Name
+                Value: "Darwin's Danger Shield"
+List: Scout
+        Key: Item
+                Value: "Mad Milk"
+        Key: ForceItemNoRemove
+                Value: "The Chargin' Targe"
+List: ItemReplacement
+List: "My Custom Item"
+        Key: Name
+                Value: "The Loch-n-Load"
+List: "tw_heavybot_armor"
+        Key: ClassName
+                Value: "tf_weapon_laser_pointer"
+List: ExtraLoadoutItems
+        Key: AllowEquipOutsideSpawn
+                Value: 1
+List: Soldier
+        Key: Secondary
+                Value: "The Reserve Shooter"
+List: Primary
+        Key: Item
+                Value: "My Custom Item"
+        Key: Cost
+                Value: 100
+        Key: AllowedMinWave
+                Value: 1
+        Key: AllowedMaxWave
+                Value: 55
+        Key: AllowRefund
+                Value: 0
+        Key: Head
+                Value: "The Cat's Pajamas"
+List: ClassLimit
+        Key: Heavyweapons
+                Value: 0
+        Key: Medic
+                Value: 0
+        Key: Sniper
+                Value: 0
+List: HandModelOverride
+        Key: Spy
+                Value: "models/weapons/c_models/c_sniper_arms.mdl"
+        Key: Sniper
+                Value: "models/weapons/c_models/c_medic_arms.mdl"
+List: PlayerAttributes
+        Key: "move speed bonus"
+                Value: 2
+List: Soldier
+        Key: "fire rate bonus"
+                Value: 2
+        Key: "max health additive bonus"
+                Value: 1000
+List: PlayerAddCond
+List: FlagResetTime
+        Key: Name
+                Value: "intel"
+        Key: ResetTime
+                Value: 90
+List: ExtraSpawnPoint
+        Key: Name
+                Value: "spawnalt"
+        Key: TeamNum
+                Value: 3
+        Key: X
+                Value: "323"
+        Key: Y
+                Value: "-2505"
+        Key: Z
+                Value: "628"
+List: ExtraTankPath
+        Key: Name
+                Value: "tankpath1"
+        Key: Node
+                Value: "-1000 -400 700"
+        Key: Node
+                Value: "-1000 400 700"
+List: SpellBookNormalRoll
+        Key: "Healing Aura"
+                Value: 3
+        Key: "Fireball"
+                Value: 3
+        Key: "Ball O' Bats"
+                Value: 2
+        Key: "Healing Aura"
+                Value: 3
+        Key: "Pumpkin MIRV"
+                Value: 1
+        Key: "Superjump"
+                Value: 4
+        Key: "Invisibility"
+                Value: 2
+        Key: "Teleport"
+                Value: 4
+        Key: "Tesla Bolt"
+                Value: 3
+        Key: "Minify"
+                Value: 1
+        Key: "Meteor Shower"
+                Value: 5
+        Key: "Summon Monoculus"
+                Value: 1
+        Key: "Summon Skeletons"
+                Value: 4
+        Key: "Meteor Shower"
+                Value: 5
+List: SpellBookRareRoll
+        Key: "Fireball"
+                Value: 99
+        Key: "Ball O' Bats"
+                Value: 7
+        Key: "Ball O' Bats"
+                Value: 2
+        Key: "Meteor Shower"
+                Value: 5
+List: OverrideParticles
+        Key: "fluidSmokeExpl_ring_mvm"
+                Value: "hightower_explosion"
+        Key: DisallowUpgrade
+                Value: "fire rate bonus"
+List: DisallowUpgrade
+        Key: Upgrade
+                Value: "damage bonus"
+        Key: MaxLevel
+                Value: 2
+        Key: CheckAllSlots
+                Value: 1
+        Key: ItemName
+                Value: "TF_WEAPON_ROCKETLAUNCHER"
+        Key: ClassName
+                Value: "tf_weapon_smg"
+List: DisallowUpgrade
+        Key: Upgrade
+                Value: "damage bonus hidden"
+        Key: MaxLevel
+                Value: 0
+List: IfUpgradePresent
+        Key: "clip size upgrade atomic"
+                Value: 1
+List: ExtendedUpgrades
+List: MaxUpgradesTier
+        Key: 1
+                Value: 2
+        Key: 2
+                Value: 1
+List: MinUpgradesTier
+        Key: 1
+                Value: 2
+        Key: 2
+                Value: 1
+List: upgrade
+        Key: Name
+                Value: "+25 max health"
+        Key: Attribute
+                Value: "max health additive bonus"
+        Key: Cap
+                Value: 200
+        Key: Increment
+                Value: 25
+        Key: Cost
+                Value: 200
+        Key: PlayerUpgrade
+                Value: 1
+        Key: AllowPlayerClass
+                Value: Scout
+        Key: AllowPlayerClass
+                Value: Heavyweapons
+        Key: AllowPlayerClass
+                Value: Demoman
+List: upgrade
+        Key: Name
+                Value: "-25% damage penalty"
+        Key: Attribute
+                Value: "damage penalty"
+        Key: Cap
+                Value: 0.5
+        Key: Increment
+                Value: -0.25
+        Key: Cost
+                Value: 200
+        Key: Description
+                Value: "Damage penalty"
+List: AllowedWeapons
+        Key: DealsDamage
+                Value: 1
+        Key: Classname
+                Value: tf_weapon_medigun
+        Key: ItemName
+                Value: "The Wrangler"
+        Key: Slot
+                Value: "Melee"
+List: DisallowedWeapons
+        Key: ItemName
+                Value: "The Short Circuit"
+        Key: AllowedMinWave
+                Value: 3
+List: SecondaryAttributes
+        Key: "fire rate bonus"
+                Value: -0.1
+        Key: ShowRequirements
+                Value: 1
+        Key: Children
+                Value: bisonfield
+        Key: Children
+                Value: damagemastery
+List: OnUpgrade
+        Key: Output
+                Value: "!activator,$displaytextchat,onupgrade,0"
+List: OnApply
+        Key: Output
+                Value: "!activator,$displaytextchat,onapply,0"
+List: OnDowngrade
+        Key: Output
+                Value: "!activator,$displaytextchat,ondowngrade,0"
+List: OnRestore
+        Key: Output
+                Value: "!activator,$displaytextchat,onrestore,0"
+List: bisonfield
+        Key: Name
+                Value: "Disintegration field"
+        Key: Attribute
+                Value: "projectile acceleration"
+        Key: Cap
+                Value: -1500
+        Key: Increment
+                Value: -1500
+        Key: Cost
+                Value: 250
+        Key: Description
+                Value: "Shoots a special projectile that deals damage over time"
+List: AllowedWeapons
+        Key: ItemName
+                Value: "The Righteous Bison"
+List: SecondaryAttributes
+        Key: "fire rate penalty"
+                Value: 3.3
+        Key: "dmg penalty vs players"
+                Value: 1
+        Key: "projectile speed decreased"
+                Value: -0.3
+        Key: "custom projectile size"
+                Value: 30
+List: damagemastery
+        Key: Name
+                Value: "Damage mastery"
+        Key: Attribute
+                Value: "damage bonus hidden"
+        Key: Cap
+                Value: 2
+        Key: Increment
+                Value: 1
+        Key: Cost
+                Value: 400
+        Key: Description
+                Value: "Doubles damage, halves fire rate"
+List: DisallowedUpgrade
+        Key: Upgrade
+                Value: fireratemastery
+        Key: Level
+                Value: 1
+List: AllowedWeapons
+        Key: DealsDamage
+                Value: 1
+List: SecondaryAttributes
+        Key: "fire rate penalty"
+                Value: 1
+        Key: "reload time increased"
+                Value: 1
+List: fireratemastery
+        Key: Name
+                Value: "Fire rate mastery"
+        Key: Attribute
+                Value: "fire rate bonus HIDDEN"
+        Key: Cap
+                Value: 0.5
+        Key: Increment
+                Value: -0.5
+        Key: Cost
+                Value: 400
+        Key: Description
+                Value: "Doubles fire rate, halves damage"
+List: DisallowedUpgrade
+        Key: Upgrade
+                Value: damagemastery
+        Key: Level
+                Value: 1
+List: AllowedWeapons
+        Key: DealsDamage
+                Value: 1
+List: SecondaryAttributes
+        Key: "reload time decreased"
+                Value: -0.5
+        Key: "damage bonus hidden"
+                Value: -0.5
+List: PointTemplates
+List: Blockade
+        Key: NoFixup
+                Value: 1
+List: prop_dynamic
+        Key: "model"
+                Value: "models/props_coalmines/wood_fence_short_128.mdl"
+        Key: "solid"
+                Value: "6"
+        Key: "solid"
+                Value: "$Solid$"
+List: Special
+        Key: KeepAlive
+                Value: 1
+        Key: NoFixup
+                Value: 1
+List: prop_dynamic
+        Key: "model"
+                Value: "models/props_coalmines/wood_fence_short_128.mdl"
+        Key: "offset"
+                Value: "0 0 0"
+        Key: "solid"
+                Value: "6"
+List: OnParentKilledOutput
+        Key: Target
+                Value: "player"
+        Key: Action
+                Value: "setforcedtauntcam"
+        Key: Delay
+                Value: 0.00
+        Key: Param
+                Value: 1
+List: KillOnKill
+List: OnParentKilledOutput
+        Key: Target
+                Value: "player"
+        Key: Action
+                Value: "setforcedtauntcam"
+        Key: Delay
+                Value: 0.00
+        Key: Param
+                Value: 1
+List: Sentry
+        Key: KeepAlive
+                Value: 1
+List: OnSpawnOutput
+        Key: Target
+                Value: "sentry"
+        Key: Action
+                Value: "setbuilder"
+        Key: Delay
+                Value: 0.00
+List: OnParentKilledOutput
+        Key: Target
+                Value: "player"
+        Key: Action
+                Value: "sethealth"
+        Key: Delay
+                Value: 0.00
+        Key: Param
+                Value: 1
+List: prop_dynamic
+        Key: "model"
+                Value: "models/props_coalmines/wood_fence_short_128.mdl"
+        Key: "solid"
+                Value: "0"
+List: obj_sentrygun
+        Key: "targetname"
+                Value: "sentry"
+        Key: "origin"
+                Value: "0 0 0"
+        Key: "teamnum"
+                Value: "3"
+        Key: "SolidToPlayer"
+                Value: "0"
+List: SentryStack
+List: obj_sentrygun
+        Key: "targetname"
+                Value: "sentry1"
+        Key: "origin"
+                Value: "0 0 0"
+        Key: "teamnum"
+                Value: "2"
+List: obj_sentrygun
+        Key: "targetname"
+                Value: "sentry2"
+        Key: "origin"
+                Value: "0 0 100"
+        Key: "teamnum"
+                Value: "2"
+List: obj_sentrygun
+        Key: "targetname"
+                Value: "sentry3"
+        Key: "origin"
+                Value: "0 0 200"
+        Key: "teamnum"
+                Value: "2"
+        Key: RemoveIfKilled
+                Value: "sentry3"
+List: SentryGunShoot
+List: obj_sentrygun
+        Key: "SolidToPlayers"
+                Value: "0"
+        Key: "origin"
+                Value: "0 0 0"
+        Key: "teamnum"
+                Value: "3"
+List: Dispenser
+List: OnSpawnOutput
+        Key: Target
+                Value: "dispenser"
+        Key: Action
+                Value: "setbuilder"
+        Key: Delay
+                Value: 0.00
+List: obj_dispenser
+        Key: "targetname"
+                Value: "dispenser"
+        Key: "origin"
+                Value: "0 0 0"
+        Key: "teamnum"
+                Value: "3"
+        Key: "SolidToPlayer"
+                Value: "0"
+List: WeaponMimic
+List: OnSpawnOutput
+        Key: Target
+                Value: "shootm"
+        Key: Action
+                Value: "$setowner"
+        Key: Param
+                Value: "!activator"
+        Key: Delay
+                Value: 0.01
+List: OnSpawnOutput
+        Key: Target
+                Value: "shootm"
+        Key: Action
+                Value: "FireUser1"
+        Key: Delay
+                Value: 0.01
+List: tf_point_weapon_mimic
+        Key: "targetname"
+                Value: "shootm"
+        Key: "origin"
+                Value: "100 0 0"
+        Key: "speedmin"
+                Value: "1000"
+        Key: "speedmax"
+                Value: "1000"
+        Key: "WeaponType"
+                Value: "1"
+        Key: "SplashRadius"
+                Value: "160"
+        Key: "Damage"
+                Value: "75"
+        Key: "teamnum"
+                Value: "2"
+        Key: "OnUser1"
+                Value: "!self,FireOnce,,0,-1"
+        Key: "OnUser1"
+                Value: "!self,FireUser1,,1,-1"
+List: WeaponMimicRocket
+List: OnSpawnOutput
+        Key: Target
+                Value: "shoot"
+        Key: Action
+                Value: "$setowner"
+        Key: Param
+                Value: "!activator"
+        Key: Delay
+                Value: 0.01
+List: OnSpawnOutput
+        Key: Target
+                Value: "shoot"
+        Key: Action
+                Value: "FireUser1"
+        Key: Delay
+                Value: 0.01
+List: tf_point_weapon_mimic
+        Key: "targetname"
+                Value: "shoot"
+        Key: "origin"
+                Value: "100 0 0"
+        Key: "speedmin"
+                Value: "1000"
+        Key: "speedmax"
+                Value: "1000"
+        Key: "WeaponType"
+                Value: "0"
+        Key: "SplashRadius"
+                Value: "160"
+        Key: "Damage"
+                Value: "75"
+        Key: "teamnum"
+                Value: "2"
+        Key: "OnUser1"
+                Value: "!self,FireOnce,,0,-1"
+        Key: "OnUser1"
+                Value: "!self,FireUser1,,1,-1"
+List: Teleporter
+List: OnSpawnOutput
+        Key: Target
+                Value: "tp"
+        Key: Action
+                Value: "addoutput"
+        Key: Param
+                Value: "solid 0"
+        Key: Delay
+                Value: 5
+List: OnSpawnOutput
+        Key: Target
+                Value: "tp"
+        Key: Action
+                Value: "setbuilder"
+        Key: Delay
+                Value: 0.00
+List: obj_teleporter
+        Key: "targetname"
+                Value: "tp"
+        Key: "origin"
+                Value: "0 0 0"
+        Key: "teamnum"
+                Value: "3"
+        Key: "TeleportWhere"
+                Value: "spawnbot"
+        Key: "solid"
+                Value: "0"
+        Key: "SolidToPlayer"
+                Value: "0"
+List: SentryTank
+List: OnSpawnOutput
+        Key: Target
+                Value: "tp"
+        Key: Action
+                Value: "addoutput"
+        Key: Param
+                Value: "solid 0"
+        Key: Delay
+                Value: 5
+List: obj_sentrygun
+        Key: "targetname"
+                Value: "l"
+        Key: "origin"
+                Value: "100 70 80"
+        Key: "SolidToPlayer"
+                Value: "0"
+        Key: "teamnum"
+                Value: "2"
+List: obj_sentrygun
+        Key: "targetname"
+                Value: "l"
+        Key: "origin"
+                Value: "-110 70 60"
+        Key: "SolidToPlayer"
+                Value: "0"
+        Key: "teamnum"
+                Value: "2"
+List: obj_sentrygun
+        Key: "targetname"
+                Value: "l"
+        Key: "origin"
+                Value: "100 -70 80"
+        Key: "SolidToPlayer"
+                Value: "0"
+        Key: "teamnum"
+                Value: "2"
+List: obj_sentrygun
+        Key: "targetname"
+                Value: "l"
+        Key: "origin"
+                Value: "-110 -70 60"
+        Key: "SolidToPlayer"
+                Value: "0"
+        Key: "teamnum"
+                Value: "2"
+List: trigger_multiple
+        Key: "targetname"
+                Value: "ffff"
+        Key: "mins"
+                Value: "-200 -100 0"
+        Key: "maxs"
+                Value: "200 100 230"
+        Key: "spawnflags"
+                Value: "1"
+        Key: "onstarttouch"
+                Value: "!activator,BleedPlayer,5,0,0"
+List: trigger_ignite
+        Key: "targetname"
+                Value: "ffff"
+        Key: "mins"
+                Value: "-200 -100 0"
+        Key: "maxs"
+                Value: "200 100 230"
+        Key: "spawnflags"
+                Value: "1"
+        Key: "burn_duration"
+                Value: "5"
+        Key: "damage_percent_per_second"
+                Value: "10"
+List: RandomColors
+List: logic_case
+        Key: "targetname"
+                Value: "random_color_case"
+        Key: "oncase01"
+                Value: "!activator,Color,255 0 0,0,-1"
+        Key: "oncase02"
+                Value: "!activator,Color,0 255 0,0,-1"
+        Key: "oncase03"
+                Value: "!activator,Color,0 0 255,0,-1"
+        Key: "oncase04"
+                Value: "!activator,Color,0 255 255,0,-1"
+        Key: "oncase05"
+                Value: "!activator,Color,255 0 255,0,-1"
+        Key: "oncase06"
+                Value: "!activator,Color,255 255 0,0,-1"
+List: Jarate
+        Key: KeepAlive
+                Value: 1
+List: tf_projectile_jar
+        Key: "origin"
+                Value: "0 0 0"
+        Key: "teamnum"
+                Value: "3"
+        Key: "teamnum"
+                Value: "$Team$"
+List: SpawnTemplate
+        Key: Name
+                Value: "Blockade"
+        Key: Origin
+                Value: "1050 4410 472"
+        Key: Angles
+                Value: "0 85 0"
+List: Params
+        Key: Solid
+                Value: "6"
+        Key: SpawnTemplate
+                Value: "RandomColors"
+List: SpawnTemplate
+        Key: Name
+                Value: "Blockade"
+        Key: Origin
+                Value: "1050 4410 472"
+        Key: Angles
+                Value: "0 85 0"
+List: SpawnTemplate
+        Key: Name
+                Value: "Sentry"
+        Key: Origin
+                Value: "0 -1000 500"
+List: PlayerSpawnTemplate
+        Key: Name
+                Value: "WeaponMimicRocket"
+        Key: Origin
+                Value: "0 0 50"
+List: PlayerSpawnOnceTemplate
+        Key: Name
+                Value: "WeaponMimicRocket"
+        Key: Origin
+                Value: "0 0 100"
+List: PlayerItemEquipSpawnTemplate
+        Key: Name
+                Value: "WeaponMimic"
+        Key: ItemName
+                Value: "The Black Box"
+        Key: Origin
+                Value: "0 0 50"
+List: PlayerShootTemplate
+        Key: Name
+                Value: Jarate
+        Key: Speed
+                Value: 1000
+        Key: Offset
+                Value: "0 0 0"
+        Key: Angles
+                Value: "0 0 0"
+        Key: OverrideShoot
+                Value: 1
+        Key: Spread
+                Value: 0.1
+        Key: ItemName
+                Value: "The Soda Popper"
+List: Params
+        Key: Team
+                Value: "3"
+List: BuildingSpawnTemplate
+        Key: Name
+                Value: Blockade
+        Key: ItemName
+                Value: "TF_WEAPON_WRENCH"
+        Key: BuildingType
+                Value: "Sentry"
+        Key: AllowBots
+                Value: 0
+List: Templates
+List: ScoutTemplate1
+        Key: Class
+                Value: Engineer
+        Key: Action
+                Value: FetchFlag
+        Key: ExtAttr
+                Value: AlwaysFireWeaponAlt
+List: Taunt
+        Key: Delay
+                Value: 10
+        Key: Cooldown
+                Value: 1
+        Key: Repeats
+                Value: 1
+        Key: Duration
+                Value: 5
+        Key: IfSeeTarget
+                Value: 1
+        Key: IfHealthBelow
+                Value: 100
+List: VoiceCommand
+        Key: Delay
+                Value: 8
+        Key: Cooldown
+                Value: 5
+        Key: Repeats
+                Value: 55
+        Key: Type
+                Value: "Medic"
+List: ChangeAttributes
+        Key: Delay
+                Value: 10
+        Key: Cooldown
+                Value: 10
+        Key: Repeats
+                Value: 1
+        Key: IfSeeTarget
+                Value: 0
+        Key: IfHealthBelow
+                Value: 800
+        Key: Name
+                Value: "Attr1"
+List: ChangeAttributes
+        Key: Delay
+                Value: 6
+        Key: Cooldown
+                Value: 10
+        Key: Repeats
+                Value: 1
+        Key: IfHealthBelow
+                Value: 900
+        Key: Name
+                Value: "Attr2"
+        Key: NoBombUpgrades
+                Value: 1
+        Key: PainSound
+                Value: "=70|GoldPipe_MissionIntro.mp3"
+        Key: DeathSound
+                Value: "GoldPipe_MissionIntro.mp3"
+        Key: Health
+                Value: 1000
+List: ScoutTemplate2
+        Key: Skill
+                Value: Hard
+List: CharacterAttributes
+        Key: "fire rate bonus"
+                Value: 0.25
+        Key: "move speed bonus"
+                Value: 2
+        Key: "SET BONUS: Special dsp"
+                Value: 134
+        Key: "hand scale"
+                Value: 0
+        Key: Item
+                Value: "MvM GateBot Light Engineer"
+        Key: Attributes
+                Value: AlwaysFireWeapon
+        Key: WeaponRestrictions
+                Value: PDAOnly
+List: ClientCommand
+        Key: Name
+                Value: "build 0"
+        Key: Delay
+                Value: 1
+        Key: Cooldown
+                Value: 5
+        Key: Repeats
+                Value: 12
+        Key: IfSeeTarget
+                Value: 0
+List: EventChangeAttributes
+List: Attr1
+List: ItemAttributes
+        Key: ItemName
+                Value: "MvM GateBot Light Engineer"
+        Key: "item style override"
+                Value: 0
+        Key: "torso scale"
+                Value: 10
+List: Attr2
+List: ItemAttributes
+        Key: ItemName
+                Value: "MvM GateBot Light Engineer"
+        Key: "item style override"
+                Value: 1
+List: CharacterAttributes
+        Key: "move speed bonus"
+                Value: 0.5
+        Key: "head scale"
+                Value: 0.5
+        Key: ExtAttr
+                Value: TargetStickies
+        Key: Skin
+                Value: 4
+List: TankTemplate
+        Key: ClassIcon
+                Value: special_blimp
+List: Mission
+        Key: Objective
+                Value: DestroySentries
+        Key: InitialCooldown
+                Value: 20
+List: Where
+        Key: Relative
+                Value: Behind
+        Key: MaxDistance
+                Value: 3000
+        Key: MinDistance
+                Value: 1500
+        Key: BeginAtWave
+                Value: 1
+        Key: RunForThisManyWaves
+                Value: 9
+        Key: CooldownTime
+                Value: 40
+        Key: SuppressSentryBusterModel
+                Value: 1
+        Key: TargetBluSentries
+                Value: 1
+List: TFBot
+        Key: Template
+                Value: T_TFBot_SentryBuster
+List: Mission
+        Key: Objective
+                Value: Engineer
+        Key: InitialCooldown
+                Value: 1
+        Key: Where
+                Value: spawnbot
+        Key: BeginAtWave
+                Value: 1
+        Key: RunForThisManyWaves
+                Value: 8
+        Key: CooldownTime
+                Value: 2
+        Key: DesiredCount
+                Value: 3
+List: TFBot
+        Key: Template
+                Value: T_TFBot_Engineer_Sentry_Teleporter
+        Key: Item
+                Value: "The Wrangler"
+List: HomingRockets
+        Key: IgnoreDisguisedSpies
+                Value: 1
+        Key: IgnoreStealthedSpies
+                Value: 1
+        Key: RocketSpeed
+                Value: 0.25
+        Key: TurnPower
+                Value: 90
+        Key: MaxAimError
+                Value: 360
+        Key: ExtAttr
+                Value: BuildDispenserAsTeleporter
+List: CharacterAttributes
+        Key: "engy dispenser radius increased"
+                Value: 40
+List: Mission
+        Key: Objective
+                Value: Engineer
+        Key: InitialCooldown
+                Value: 2
+        Key: Where
+                Value: spawnbot
+        Key: BeginAtWave
+                Value: 1
+        Key: RunForThisManyWaves
+                Value: 8
+        Key: CooldownTime
+                Value: 2
+        Key: DesiredCount
+                Value: 3
+List: TFBot
+        Key: Template
+                Value: T_TFBot_Engineer_Sentry_Teleporter
+        Key: ExtAttr
+                Value: BuildDispenserAsSentryGun
+List: CharacterAttributes
+        Key: "engy dispenser radius increased"
+                Value: 40
+List: Wave
+        Key: CustomWaveNumber
+                Value: 419
+        Key: CustomMaxWaveNumber
+                Value: 0
+List: Explanation
+        Key: Line
+                Value: "{blue}Sentry tanks will spawn this wave"
+        Key: Line
+                Value: "{red}Red sentries will help you win this wave!"
+List: StartWaveOutput
+        Key: Target
+                Value: wave_start_relay
+        Key: Action
+                Value: Trigger
+List: DoneOutput
+        Key: Target
+                Value: wave_finished_relay
+        Key: Action
+                Value: trigger
+        Key: WaitWhenDone
+                Value: 65
+        Key: Checkpoint
+                Value: Yes
+List: PlayerAttributes
+        Key: "increased jump height"
+                Value: 0.5
+List: ItemAttributes
+        Key: ItemName
+                Value: "The Scottish Resistance"
+        Key: "reload time decreased"
+                Value: 0.25
+List: PlayerAddCond
+        Key: Index
+                Value: 56
+List: SpawnTemplate
+        Key: Name
+                Value: "Sentry"
+        Key: Origin
+                Value: "0 -800 500"
+List: SpawnTemplate
+        Key: Name
+                Value: "Teleporter"
+        Key: Origin
+                Value: "0 -900 400"
+        Key: Delay
+                Value: 5
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 2
+        Key: MaxActive
+                Value: 2
+        Key: SpawnCount
+                Value: 2
+        Key: WaitBeforeStarting
+                Value: 0
+        Key: WaitBetweenSpawns
+                Value: 7
+        Key: TotalCurrency
+                Value: 200
+List: Squad
+        Key: NoWaitForFormation
+                Value: 1
+        Key: NoFormation
+                Value: 1
+List: TFBot
+        Key: Template
+                Value: ScoutTemplate1
+        Key: AddTemplate
+                Value: ScoutTemplate2
+List: TFBot
+        Key: Class
+                Value: Demoman
+        Key: Item
+                Value: "TF_WEAPON_SPELLBOOK"
+List: WeaponResist
+        Key: "TF_WEAPON_KNIFE"
+                Value: 0.1
+        Key: "TF_WEAPON_MINIGUN"
+                Value: 10
+List: Spell
+        Key: Delay
+                Value: 1
+        Key: Cooldown
+                Value: 5
+        Key: Repeats
+                Value: 12
+        Key: IfSeeTarget
+                Value: 0
+        Key: Charges
+                Value: 1
+        Key: Limit
+                Value: 1
+        Key: Type
+                Value: "All"
+        Key: UseBusterModel
+                Value: 1
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 14
+        Key: WaitBetweenSpawns
+                Value: 7
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Class
+                Value: Engineer
+        Key: Action
+                Value: FetchFlag
+        Key: Item
+                Value: "The Short Circuit"
+        Key: DesiredAttackRange
+                Value: 100
+        Key: MoveBehindEnemy
+                Value: 1
+        Key: ExtAttr
+                Value: AlwaysFireWeaponAlt
+        Key: WeaponRestrictions
+                Value: SecondaryOnly
+List: CustomWeaponModel
+        Key: Slot
+                Value: 1
+        Key: Model
+                Value: "models/weapons/w_models/w_minigun.mdl"
+        Key: UseHumanModel
+                Value: 1
+        Key: UseMeleeThreatPrioritization
+                Value: 1
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 21
+        Key: WaitBetweenSpawns
+                Value: 7
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Class
+                Value: Pyro
+        Key: Attributes
+                Value: TeleportToHint
+        Key: SpawnTemplate
+                Value: "KillOnKill"
+        Key: NoCrouchButtonRelease
+                Value: 1
+List: FireWeapon
+        Key: Delay
+                Value: 1
+        Key: Cooldown
+                Value: 3
+        Key: Repeats
+                Value: 0
+        Key: IfSeeTarget
+                Value: 1
+        Key: Duration
+                Value: 0.5
+        Key: Type
+                Value: "Secondary"
+        Key: UseCustomModel
+                Value: "models/bots/merasmus/merasmus.mdl"
+        Key: UseHumanAnimations
+                Value: 1
+        Key: RingOfFire
+                Value: 15
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: "spawnalt"
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 14
+        Key: WaitBetweenSpawns
+                Value: 7
+        Key: TotalCurrency
+                Value: 200
+        Key: Support
+                Value: 1
+List: TFBot
+        Key: Class
+                Value: Soldier
+        Key: SuppressTimedFetchFlag
+                Value: 1
+        Key: Item
+                Value: "The Gunboats"
+List: ItemColor
+        Key: ItemName
+                Value: "TF_WEAPON_ROCKETLAUNCHER"
+        Key: Red
+                Value: 255
+        Key: Green
+                Value: 0
+        Key: Blue
+                Value: 0
+List: ItemColor
+        Key: ItemName
+                Value: "The Gunboats"
+        Key: Red
+                Value: 255
+        Key: Green
+                Value: 0
+        Key: Blue
+                Value: 0
+List: HomingRockets
+        Key: IgnoreDisguisedSpies
+                Value: 1
+        Key: IgnoreStealthedSpies
+                Value: 1
+        Key: RocketSpeed
+                Value: 0.01
+        Key: TurnPower
+                Value: 30
+        Key: MaxAimError
+                Value: 50
+        Key: AimTime
+                Value: 1
+        Key: AimStartTime
+                Value: 1
+        Key: Acceleration
+                Value: 1000
+        Key: AccelerationTime
+                Value: 0.1
+        Key: AccelerationStartTime
+                Value: 1
+        Key: Gravity
+                Value: 355
+        Key: FollowCrosshair
+                Value: 1
+List: AddCond
+        Key: Name
+                Value: "TF_COND_REPROGRAMMED"
+        Key: Delay
+                Value: 3
+        Key: Duration
+                Value: 99
+        Key: IfHealthBelow
+                Value: 100
+List: DamageAppliesCond
+        Key: Name
+                Value: "TF_COND_URINE"
+        Key: Duration
+                Value: 3
+        Key: IfHealthBelow
+                Value: 100
+        Key: RocketCustomModel
+                Value: "models/props_halloween/eyeball_projectile.mdl"
+        Key: RocketCustomParticle
+                Value: "flare_glow"
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 8
+        Key: MaxActive
+                Value: 8
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 35
+        Key: WaitBetweenSpawns
+                Value: 1
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Class
+                Value: Spy
+        Key: AlwaysGlow
+                Value: 1
+        Key: StripItemSlot
+                Value: 1
+        Key: StripItem
+                Value: "Zombie Spy"
+List: FireInput
+        Key: Target
+                Value: "random_color_case*"
+        Key: Action
+                Value: "PickRandom"
+        Key: Param
+                Value: ""
+        Key: Delay
+                Value: 0
+        Key: Cooldown
+                Value: 1
+        Key: Repeats
+                Value: 0
+List: AddAttribute
+        Key: Item
+                Value: "TF_WEAPON_KNIFE"
+        Key: Name
+                Value: "damage bonus"
+        Key: Value
+                Value: 2
+        Key: Delay
+                Value: 0
+        Key: Cooldown
+                Value: 1
+        Key: Repeats
+                Value: 0
+List: RemoveAttribute
+        Key: Item
+                Value: "TF_WEAPON_KNIFE"
+        Key: Name
+                Value: "damage bonus"
+        Key: Delay
+                Value: 4
+        Key: Cooldown
+                Value: 1
+        Key: Repeats
+                Value: 0
+List: Wave
+List: StartWaveOutput
+        Key: Target
+                Value: wave_start_relay
+        Key: Action
+                Value: Trigger
+List: DoneOutput
+        Key: Target
+                Value: wave_finished_relay
+        Key: Action
+                Value: trigger
+        Key: WaitWhenDone
+                Value: 65
+        Key: Checkpoint
+                Value: Yes
+        Key: RedTeamWipeCausesWaveLoss
+                Value: 1
+        Key: BlueTeamWipeCausesWaveLoss
+                Value: 1
+        Key: FinishingWaveCausesWaveLoss
+                Value: 1
+List: Explanation
+        Key: Line
+                Value: "{blue}Sentry tanks will spawn this wave"
+        Key: Line
+                Value: "{red}Red sentries will help you win this wave!"
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 2
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 0
+        Key: WaitBetweenSpawns
+                Value: 7
+        Key: TotalCurrency
+                Value: 200
+List: FirstSpawnOutput
+        Key: Target
+                Value: boss_spawn_relay
+        Key: Action
+                Value: Trigger
+List: Tank
+        Key: Health
+                Value: 20000
+        Key: Speed
+                Value: 75
+        Key: Name
+                Value: "tankboss"
+        Key: StartingPathTrackNode
+                Value: "boss_path_a1"
+List: OnKilledOutput
+        Key: Target
+                Value: boss_dead_relay
+        Key: Action
+                Value: Trigger
+List: OnBombDroppedOutput
+        Key: Target
+                Value: boss_deploy_relay
+        Key: Action
+                Value: Trigger
+        Key: SpawnTemplate
+                Value: "SentryTank"
+        Key: Template
+                Value: "TankTemplate"
+        Key: DisableSmokestack
+                Value: 1
+        Key: Scale
+                Value: 0.75
+        Key: MaxTurnRate
+                Value: 9999999
+        Key: IsMiniBoss
+                Value: 0
+        Key: IsCrit
+                Value: 1
+List: Model
+        Key: Default
+                Value: "models/bots/boss_bot/boss_tankred.mdl"
+        Key: Damage1
+                Value: "models/bots/boss_bot/boss_tankred_damage1.mdl"
+        Key: Damage2
+                Value: "models/bots/boss_bot/boss_tankred_damage2.mdl"
+        Key: Damage3
+                Value: "models/bots/boss_bot/boss_tankred_damage3.mdl"
+        Key: Destruction
+                Value: "models/bots/boss_bot/boss_tankred_part1_destruction.mdl"
+        Key: LeftTrack
+                Value: "models/bots/boss_bot/tankred_track_l.mdl"
+        Key: RightTrack
+                Value: "models/bots/boss_bot/tankred_track_r.mdl"
+        Key: Bomb
+                Value: "models/bots/boss_bot/bombblue_mechanism.mdl"
+        Key: Gravity
+                Value: 0
+        Key: PingSound
+                Value: "weapons/rocket_directhit_shoot_crit.wav"
+        Key: StartSound
+                Value: "GoldPipe_MissionIntro.mp3"
+        Key: DeploySound
+                Value: "GoldPipe_MissionIntro.mp3"
+        Key: EngineLoopSound
+                Value: "Weapon_Minigun.Fire"
+        Key: TeamNum
+                Value: 2
+        Key: OffsetZ
+                Value: 0
+        Key: RotatePitch
+                Value: 0
+        Key: CritImmune
+                Value: 1
+        Key: TriggerDestroyBuildingFix
+                Value: 1
+        Key: NoCrushDamage
+                Value: 1
+        Key: SolidToBrushes
+                Value: 1
+        Key: NoScreenShake
+                Value: 1
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 0
+        Key: WaitBetweenSpawns
+                Value: 7
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Class
+                Value: Soldier
+        Key: Item
+                Value: "The Flare Gun"
+        Key: BodyPartScaleSpeed
+                Value: 0.1
+List: ItemAttributes
+        Key: ItemName
+                Value: "The Flare Gun"
+        Key: "head scale"
+                Value: 0.01
+        Key: "custom projectile model"
+                Value: "models/props_soho/bookstand002.mdl"
+        Key: "set damagetype ignite"
+                Value: 1
+        Key: ExtAttr
+                Value: IgnoreBuildings
+        Key: ExtAttr
+                Value: IgnorePlayers
+        Key: ExtAttr
+                Value: IgnoreBots
+        Key: ExtAttr
+                Value: IgnoreRealPlayers
+        Key: ExtAttr
+                Value: IgnoreNPC
+List: Message
+        Key: Name
+                Value: "{red} Hello!"
+        Key: Delay
+                Value: 1
+        Key: Cooldown
+                Value: 3
+        Key: Repeats
+                Value: 0
+        Key: IfSeeTarget
+                Value: 1
+List: SpawnTemplate
+        Key: Name
+                Value: "Sentry"
+        Key: Bone
+                Value: "bip_head"
+        Key: NoPushaway
+                Value: 1
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 0
+        Key: WaitBetweenSpawns
+                Value: 7
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Class
+                Value: Soldier
+List: SpawnTemplate
+        Key: Name
+                Value: "Teleporter"
+        Key: Bone
+                Value: "bip_spine_2"
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 12
+        Key: WaitBetweenSpawns
+                Value: 1
+        Key: TotalCurrency
+                Value: 200
+        Key: StartWaveMessage
+                Value: "Wave start"
+        Key: StartWaveMessage
+                Value: "Wave start line 2"
+        Key: FirstSpawnMessage
+                Value: "First spawn"
+        Key: LastSpawnMessage
+                Value: "Last spawn"
+        Key: DoneMessage
+                Value: "Done"
+List: TFBot
+        Key: Class
+                Value: Scout
+        Key: Item
+                Value: "The Sandman"
+        Key: WeaponRestrictions
+                Value: MeleeOnly
+        Key: Skill
+                Value: Expert
+List: ItemAttributes
+        Key: ItemName
+                Value: "The Sandman"
+        Key: "mod bat launches balls"
+                Value: 2
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 22
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 0
+        Key: WaitBetweenSpawns
+                Value: 0.25
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Class
+                Value: Medic
+        Key: WeaponRestrictions
+                Value: SecondaryOnly
+        Key: Attributes
+                Value: ProjectileShield
+        Key: Attributes
+                Value: SpawnWithFullCharge
+        Key: Item
+                Value: "The Quick-Fix"
+List: FireWeapon
+        Key: Delay
+                Value: 1
+        Key: Cooldown
+                Value: 3
+        Key: Repeats
+                Value: 0
+        Key: Duration
+                Value: 0.6
+        Key: Type
+                Value: "Special"
+List: ItemAttributes
+        Key: ItemName
+                Value: "The Quick-Fix"
+        Key: "bot medic uber deploy delay duration"
+                Value: 999999
+        Key: "generate rage on heal"
+                Value: 2
+        Key: "heal rate bonus"
+                Value: 2
+        Key: "dmg penalty vs players"
+                Value: 0
+List: SentryGun
+        Key: TeamNum
+                Value: 2
+        Key: Delay
+                Value: 2
+        Key: Level
+                Value: 1
+        Key: BodyGroup
+                Value: 1
+        Key: Skin
+                Value: 2
+        Key: Health
+                Value: 934
+List: Position
+        Key: X
+                Value: 118
+        Key: Y
+                Value: -2006
+        Key: Z
+                Value: 516
+        Key: Pitch
+                Value: 9
+        Key: Yaw
+                Value: 4
+        Key: Roll
+                Value: 100
+List: HalloweenBoss
+        Key: BossType
+                Value: HHH
+        Key: TeamNum
+                Value: 5
+        Key: Delay
+                Value: 12
+List: Position
+        Key: X
+                Value: -1000
+        Key: Y
+                Value: 4000
+        Key: Z
+                Value: 516
+        Key: Lifetime
+                Value: 5.4
+List: SoundLoop
+List: Wave
+List: StartWaveOutput
+        Key: Target
+                Value: wave_start_relay
+        Key: Action
+                Value: Trigger
+List: DoneOutput
+        Key: Target
+                Value: wave_finished_relay
+        Key: Action
+                Value: trigger
+        Key: WaitWhenDone
+                Value: 65
+        Key: Checkpoint
+                Value: Yes
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 0
+        Key: WaitBetweenSpawns
+                Value: 0.25
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Class
+                Value: Scout
+        Key: Attributes
+                Value: SuppressFire
+        Key: ForceRomeVision
+                Value: 1
+        Key: Item
+                Value: "War Head"
+List: ItemModel
+        Key: ItemName
+                Value: "War Head"
+        Key: Model
+                Value: "models/player/items/all_class/pet_balloonicorn.mdl"
+        Key: Item
+                Value: "Noise Maker - TF Birthday"
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 5
+        Key: WaitBetweenSpawns
+                Value: 0.25
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Class
+                Value: Soldier
+        Key: Skill
+                Value: Expert
+        Key: RocketJump
+                Value: 1
+        Key: Item
+                Value: "Battery Canteens"
+        Key: UseBestWeapon
+                Value: 1
+        Key: ForceRomeVision
+                Value: 1
+List: ItemAttributes
+        Key: ItemName
+                Value: "Battery Canteens"
+        Key: "ubercharge"
+                Value: 1
+        Key: "powerup charges"
+                Value: 3
+List: Sequence
+        Key: Name
+                Value: "Run_MELEE"
+        Key: Delay
+                Value: 6
+        Key: Repeats
+                Value: 1
+        Key: IfHealthBelow
+                Value: 17000
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 10
+        Key: WaitBetweenSpawns
+                Value: 0.25
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Name
+                Value: "Engineer Bot"
+        Key: Class
+                Value: Engineer
+        Key: Health
+                Value: 4500
+        Key: Skill
+                Value: Expert
+        Key: WeaponRestrictions
+                Value: SecondaryOnly
+        Key: Attributes
+                Value: MiniBoss
+        Key: Item
+                Value: "The Short Circuit"
+        Key: Action
+                Value: FetchFlag
+List: FireWeapon
+        Key: Delay
+                Value: 0
+        Key: Cooldown
+                Value: 8
+        Key: Repeats
+                Value: 0
+        Key: IfSeeTarget
+                Value: 0
+        Key: Duration
+                Value: 2
+        Key: Type
+                Value: "Secondary"
+List: ItemAttributes
+        Key: ItemName
+                Value: "The Short Circuit"
+        Key: "fire rate bonus"
+                Value: 0.1
+List: CharacterAttributes
+        Key: "airblast vulnerability multiplier"
+                Value: 0.6
+        Key: "damage force reduction"
+                Value: 0.6
+        Key: "move speed bonus"
+                Value: 0.5
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 15
+        Key: WaitBetweenSpawns
+                Value: 0.25
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Class
+                Value: Heavyweapons
+        Key: WeaponRestrictions
+                Value: MeleeOnly
+        Key: Item
+                Value: "Gold Frying Pan"
+List: ItemAttributes
+        Key: ItemName
+                Value: "Gold Frying Pan"
+        Key: "is australium item"
+                Value: 0
+        Key: "item style override"
+                Value: 3
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 20
+        Key: WaitBetweenSpawns
+                Value: 0.25
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Name
+                Value: "Giant Armored Medic"
+        Key: Class
+                Value: Medic
+        Key: Health
+                Value: 4500
+        Key: Skill
+                Value: Expert
+        Key: ClassIcon
+                Value: medic_armored_giant
+        Key: WeaponRestrictions
+                Value: SecondaryOnly
+        Key: Attributes
+                Value: MiniBoss
+        Key: Attributes
+                Value: ProjectileShield
+        Key: Attributes
+                Value: SpawnWithFullCharge
+        Key: Item
+                Value: "The Quick-Fix"
+        Key: Item
+                Value: "Das Naggenvatcher"
+List: FireWeapon
+        Key: Delay
+                Value: 1
+        Key: Cooldown
+                Value: 3
+        Key: Repeats
+                Value: 0
+        Key: Duration
+                Value: 0.5
+        Key: Type
+                Value: "Special"
+List: WeaponSwitch
+        Key: Delay
+                Value: 1
+        Key: Cooldown
+                Value: 3
+        Key: Repeats
+                Value: 0
+        Key: Type
+                Value: "Primary"
+List: ItemAttributes
+        Key: ItemName
+                Value: "The Quick-Fix"
+        Key: "bot medic uber deploy delay duration"
+                Value: 999999
+        Key: "generate rage on heal"
+                Value: 2
+        Key: "heal rate bonus"
+                Value: 2
+        Key: "dmg penalty vs players"
+                Value: 0
+List: CharacterAttributes
+        Key: "airblast vulnerability multiplier"
+                Value: 0.6
+        Key: "damage force reduction"
+                Value: 0.6
+        Key: "move speed bonus"
+                Value: 0.5
+List: WaveSpawn
+        Key: Name
+                Value: "wave01b"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 25
+        Key: WaitBetweenSpawns
+                Value: 25
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Class
+                Value: Medic
+        Key: Item
+                Value: "The Flare Gun"
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 30
+        Key: WaitBetweenSpawns
+                Value: 30
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Class
+                Value: Heavyweapons
+        Key: Item
+                Value: "Tomislav"
+List: ShootTemplate
+        Key: Name
+                Value: Jarate
+        Key: Speed
+                Value: 1000
+        Key: Offset
+                Value: "0 0 0"
+        Key: Angles
+                Value: "0 0 0"
+        Key: OverrideShoot
+                Value: 1
+        Key: Spread
+                Value: 0.1
+        Key: ItemName
+                Value: "Tomislav"
+List: ItemAttributes
+        Key: ItemName
+                Value: "Tomislav"
+        Key: "set_item_texture_wear"
+                Value: 0.2
+        Key: "paintkit_proto_def_index"
+                Value: 122
+List: SoundLoop
+        Key: "ui/gamestartup1.mp3"
+                Value: 75
+        Key: "ui/gamestartup2.mp3"
+                Value: 250
+        Key: "ui/gamestartup3.mp3"
+                Value: 40
+        Key: "ui/gamestartup4.mp3"
+                Value: 140
+        Key: "ui/gamestartup5.mp3"
+                Value: 90
+List: Wave
+List: StartWaveOutput
+        Key: Target
+                Value: wave_start_relay
+        Key: Action
+                Value: Trigger
+List: DoneOutput
+        Key: Target
+                Value: wave_finished_relay
+        Key: Action
+                Value: trigger
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 0
+        Key: WaitBetweenSpawns
+                Value: 0.25
+        Key: TotalCurrency
+                Value: 200
+        Key: Support
+                Value: 1
+List: TFBot
+        Key: Class
+                Value: Heavyweapons
+        Key: Attributes
+                Value: HoldFireUntilFullReload
+        Key: WeaponRestrictions
+                Value: SecondaryOnly
+List: AddCond
+        Key: Name
+                Value: "TF_COND_REPROGRAMMED"
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 5
+        Key: WaitBetweenSpawns
+                Value: 0.25
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Skin
+                Value: 3
+        Key: Class
+                Value: Soldier
+        Key: Item
+                Value: "The Righteous Bison"
+        Key: Attributes
+                Value: HoldFireUntilFullReload
+        Key: WeaponRestrictions
+                Value: SecondaryOnly
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 10
+        Key: WaitBetweenSpawns
+                Value: 0.25
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Class
+                Value: Soldier
+        Key: Item
+                Value: "The Short Circuit"
+        Key: WeaponRestrictions
+                Value: SecondaryOnly
+        Key: ExtAttr
+                Value: AlwaysFireWeaponAlt
+List: InterruptAction
+        Key: Target
+                Value: "330.196350 4876.522949 320.031250"
+        Key: AimTarget
+                Value: "329.606170 4959.968750 388.896514"
+        Key: Name
+                Value: "a"
+        Key: Delay
+                Value: 1
+        Key: Repeats
+                Value: 1
+        Key: Cooldown
+                Value: 3
+        Key: Duration
+                Value: 10
+        Key: WaitUntilDone
+                Value: 1
+        Key: OnDoneChangeAttributes
+                Value: "Action2"
+        Key: Distance
+                Value: 50
+        Key: AddToQueue
+                Value: 1
+        Key: SprayFile
+                Value: "materials/hud/leaderboard_class_dispenser.vtf"
+List: Spray
+        Key: Delay
+                Value: 12
+        Key: Repeats
+                Value: 10
+        Key: Cooldown
+                Value: 10
+List: EventChangeAttributes
+List: Action2
+List: InterruptAction
+        Key: Delay
+                Value: 1
+        Key: Repeats
+                Value: 1
+        Key: Target
+                Value: "4.813873 -1628.718506 451.714722"
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 15
+        Key: WaitBetweenSpawns
+                Value: 0.25
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Class
+                Value: Soldier
+        Key: WeaponRestrictions
+                Value: SecondaryOnly
+        Key: AimTrackingInterval
+                Value: 0
+        Key: FastUpdate
+                Value: 1
+        Key: DropWeapon
+                Value: 1
+List: ItemAttributes
+        Key: ItemName
+                Value: "TF_WEAPON_SHOTGUN_SOLDIER"
+        Key: "custom weapon fire sound"
+                Value: "weapons/rocket_directhit_shoot_crit.wav"
+        Key: "is invisible"
+                Value: 1
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 20
+        Key: WaitBetweenSpawns
+                Value: 0.25
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Class
+                Value: Demoman
+        Key: Skill
+                Value: Expert
+        Key: Health
+                Value: 5000
+        Key: WeaponRestrictions
+                Value: SecondaryOnly
+        Key: Item
+                Value: "My Custom Item"
+        Key: AimAt
+                Value: Feet
+        Key: AimOffset
+                Value: "0 0 10"
+        Key: AimLeadProjectileSpeed
+                Value: 1
+List: AddCond
+        Key: Name
+                Value: "TF_COND_REPROGRAMMED_NEUTRAL"
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 0
+        Key: WaitBetweenSpawns
+                Value: 0.25
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Class
+                Value: Soldier
+        Key: Skill
+                Value: Expert
+        Key: Health
+                Value: 5000
+        Key: Attributes
+                Value: HoldFireUntilFullReload
+        Key: Attributes
+                Value: MiniBoss
+        Key: ExtAttr
+                Value: JumpStomp
+List: ItemAttributes
+        Key: ItemName
+                Value: "TF_WEAPON_ROCKETLAUNCHER"
+        Key: "clip size bonus"
+                Value: 3
+        Key: "fire rate bonus"
+                Value: 0.2
+        Key: "reload time decreased"
+                Value: 0.25
+List: CharacterAttributes
+        Key: "move speed bonus"
+                Value: 0.3
+List: HomingRockets
+        Key: IgnoreDisguisedSpies
+                Value: 1
+        Key: IgnoreStealthedSpies
+                Value: 1
+        Key: RocketSpeed
+                Value: 0.3
+        Key: TurnPower
+                Value: 90
+        Key: MaxAimError
+                Value: 360
+List: ShootTemplate
+        Key: Name
+                Value: "SentryGunShoot"
+        Key: AttachToProjectile
+                Value: 1
+List: Wave
+List: StartWaveOutput
+        Key: Target
+                Value: wave_start_relay
+        Key: Action
+                Value: Trigger
+List: DoneOutput
+        Key: Target
+                Value: wave_finished_relay
+        Key: Action
+                Value: trigger
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 10
+        Key: MaxActive
+                Value: 10
+        Key: SpawnCount
+                Value: 10
+        Key: WaitBeforeStarting
+                Value: 0
+        Key: WaitBetweenSpawns
+                Value: 0.25
+        Key: TotalCurrency
+                Value: 200
+        Key: Support
+                Value: 1
+List: PointTemplate
+        Key: SpawnAtEntity
+                Value: Where
+        Key: IsCrit
+                Value: 1
+        Key: IsMiniBoss
+                Value: 1
+        Key: ClassIcon
+                Value: Soldier
+        Key: Name
+                Value: "SentryStack"
+        Key: Origin
+                Value: "0 1 0"
+        Key: Angles
+                Value: "0 85 0"
+        Key: SpawnCurrencyPack
+                Value: "sentry3"
+        Key: SpreadRadius
+                Value: "60 60 0"
+        Key: StickToGround
+                Value: 6000
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 0
+        Key: WaitBetweenSpawns
+                Value: 0.25
+        Key: TotalCurrency
+                Value: 200
+List: TFBot
+        Key: Class
+                Value: Soldier
+List: Wave
+List: StartWaveOutput
+        Key: Target
+                Value: wave_start_relay
+        Key: Action
+                Value: Trigger
+List: DoneOutput
+        Key: Target
+                Value: wave_finished_relay
+        Key: Action
+                Value: trigger
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 10
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 0
+        Key: WaitBetweenSpawns
+                Value: 0.25
+        Key: TotalCurrency
+                Value: 200
+        Key: Support
+                Value: 1
+List: HalloweenBoss
+        Key: IsCrit
+                Value: 1
+        Key: IsMiniBoss
+                Value: 1
+        Key: ClassIcon
+                Value: Soldier
+        Key: FastUpdate
+                Value: 1
+        Key: BossType
+                Value: Monoculus
+        Key: SpawnCurrencyPack
+                Value: 1
+        Key: TeamNum
+                Value: 5
+        Key: Health
+                Value: 11111
+        Key: Lifetime
+                Value: 55
+        Key: Speed
+                Value: 0
+        Key: SpreadRadius
+                Value: "200 200 0"
+        Key: StickToGround
+                Value: 6000
+        Key: DamageMultiplier
+                Value: 10
+        Key: SpawnTemplate
+                Value: "WeaponMimic"
+List: WaveSpawn
+        Key: Name
+                Value: "wave01a"
+        Key: Where
+                Value: spawnbot
+        Key: TotalCount
+                Value: 1
+        Key: MaxActive
+                Value: 1
+        Key: SpawnCount
+                Value: 1
+        Key: WaitBeforeStarting
+                Value: 0
+        Key: WaitBetweenSpawns
+                Value: 0.25
+        Key: TotalCurrency
+                Value: 200
+        Key: HideIcon
+                Value: 1
+List: TFBot
+        Key: Class
+                Value: Soldier
+        Key: Attributes
+                Value: MiniBoss
+        Key: NoIdleSound
+                Value: 1
+        Key: SpellDropRateCommon
+                Value: 0.4
+        Key: SpellDropRateRare
+                Value: 0.1
+        Key: NoCrouchButtonRelease
+                Value: 1
+List: FireWeapon
+        Key: Delay
+                Value: 1
+        Key: Cooldown
+                Value: 6
+        Key: Repeats
+                Value: 0
+        Key: Duration
+                Value: 2
+        Key: Type
+                Value: "Crouch"
+        Key: AdditionalStepSound
+                Value: "GoldPipe_MissionIntro.mp3"
+        Key: CustomEyeParticle
+                Value: "eye_powerup_green_lvl_4"
+        Key: CustomEyeGlowColor
+                Value: "255 255 255"

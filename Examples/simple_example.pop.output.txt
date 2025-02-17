@@ -1,0 +1,76 @@
+> python APPB.py ./Examples/simple_example.pop
+List: waveschedulenamecanbeanything
+        Key: key1
+                Value: value1
+        Key: "quotedkey"
+                Value: "quoted value"
+        Key: "quotedkey2"
+                Value: value2
+        Key: key2
+                Value: "quoted value 2"
+        Key: number1
+                Value: 100
+        Key: number2
+                Value: "100"
+        Key: number3
+                Value: 20.0
+        Key: number4
+                Value: "20.0"
+        Key: number5
+                Value: -30
+        Key: number6
+                Value: "-30"
+        Key: number7
+                Value: -40.0
+        Key: number8
+                Value: "-40.0"
+List: list
+        Key: key1
+                Value: value1
+        Key: "quotedkey"
+                Value: "quoted value"
+        Key: "quotedkey2"
+                Value: value2
+        Key: key2
+                Value: "quoted value 2"
+        Key: number1
+                Value: 100
+        Key: number2
+                Value: "100"
+        Key: number3
+                Value: 20.0
+        Key: number4
+                Value: "20.0"
+        Key: number5
+                Value: -30
+        Key: number6
+                Value: "-30"
+        Key: number7
+                Value: -40.0
+        Key: number8
+                Value: "-40.0"
+List: nested_list
+        Key: key1
+                Value: value1
+        Key: "quotedkey"
+                Value: "quoted value"
+        Key: "quotedkey2"
+                Value: value2
+        Key: key2
+                Value: "quoted value 2"
+        Key: number1
+                Value: 100
+        Key: number2
+                Value: "100"
+        Key: number3
+                Value: 20.0
+        Key: number4
+                Value: "20.0"
+        Key: number5
+                Value: -30
+        Key: number6
+                Value: "-30"
+        Key: number7
+                Value: -40.0
+        Key: number8
+                Value: "-40.0"

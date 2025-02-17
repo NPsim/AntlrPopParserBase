@@ -1,0 +1,58 @@
+#base basefile
+#directive anotherfile // Comment
+
+// Comment
+//Comment
+
+waveschedulenamecanbeanything
+{
+    key1 value1 [$TOKEN]
+    "quotedkey" "quoted value" [$FLAG_VALUE]
+    "quotedkey2" value2
+    key2 "quoted value 2"
+
+    number1 100
+    number2 "100"
+    number3 20.0
+    number4 "20.0"
+    
+    number5 -30
+    number6 "-30"
+    number7 -40.0
+    number8 "-40.0"
+    
+    list
+    {
+        key1 value1 [$TOKEN]
+        "quotedkey" "quoted value" [$FLAG_VALUE]
+        "quotedkey2" value2
+        key2 "quoted value 2"
+        
+        number1 100
+        number2 "100"
+        number3 20.0
+        number4 "20.0"
+        
+        number5 -30
+        number6 "-30"
+        number7 -40.0
+        number8 "-40.0"
+        nested_list
+        {
+            key1 value1 [$TOKEN]
+            "quotedkey" "quoted value" [$FLAG_VALUE]
+            "quotedkey2" value2
+            key2 "quoted value 2"
+            
+            number1 100
+            number2 "100"
+            number3 20.0
+            number4 "20.0"
+            
+            number5 -30
+            number6 "-30"
+            number7 -40.0
+            number8 "-40.0"
+        }
+    }
+}
